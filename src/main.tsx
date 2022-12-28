@@ -6,9 +6,9 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
   <React.StrictMode>
 
-    <div className="">
+    <div className="bg-gray-900">
         <App />
     </div>
 
-  </React.StrictMode>,
-)
+  </React.StrictMode>
+);
